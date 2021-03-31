@@ -4,7 +4,7 @@
 I am junior frontent developer, **currenrly searching for a job**.
 
 
-- 🔭 I’m currently working on React Quiz App. https://github.com/Unleashed97/react-quiz 
+- 🔭 I’m currently working on [React Quiz App](https://github.com/Unleashed97/react-quiz).
 - 🌱 I’m currently learning React & Redux, TypeScript 
 - 📫 How to reach me: [Telegram](t.me/unleashed0)
 
