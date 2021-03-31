@@ -1,7 +1,7 @@
 <img src='https://github.com/Unleashed97/unleashed97/blob/main/src/assets/images/header-mod.jpg' alt='header'>
 
 ## About me
-I am junior frontent developer, **currenrly searching for a job**.
+I am junior frontent developer, **currently searching for a job**.
 
 
 - 🔭 I’m currently working on [React Quiz App](https://github.com/Unleashed97/react-quiz).
