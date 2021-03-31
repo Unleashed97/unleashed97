@@ -12,7 +12,9 @@ I am junior frontent developer, **currenrly searching for a job**.
 [SV.pdf]( https://unleashed97.github.io/unleashed97/src/assets/cv/CV.pdf)
 
 ### Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/unleashed97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/unleashed0) ![Profile views](https://gpvc.arturio.dev/unleashed97)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/unleashed0)
+![Profile views](https://gpvc.arturio.dev/unleashed97)
 
 ***
 
@@ -59,7 +61,7 @@ Just a little landing page for the restaurant to improve markdown skill
   * Swiper slider
   * GULP (minify html/css/images, etc.)
 
-### Kuba
+### Cuba
 You can check it out [here](https://unleashed97.github.io/cuba/src/)
 * About
 Landing page of Cuba "Liberty Island". 
