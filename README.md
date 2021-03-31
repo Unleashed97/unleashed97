@@ -1,13 +1,15 @@
 <img src='https://github.com/Unleashed97/unleashed97/blob/main/src/assets/images/header-mod.jpg' alt='header'>
+
 ## About me
 I am junior frontent developer, **currenrly searching for a job**.
 
+
 - 🔭 I’m currently working on React Quiz App. https://github.com/Unleashed97/react-quiz 
 - 🌱 I’m currently learning React & Redux, TypeScript 
-- 📫 How to reach me: t.me/unleashed0
+- 📫 How to reach me: [Telegram](t.me/unleashed0)
 
 ### Resume
-[SV.pdf](https://github.com/Unleashed97/unleashed97/blob/main/src/assets/cv/CV.pdf)
+[SV.pdf]( https://unleashed97.github.io/unleashed97/blob/main/src/assets/cv/CV.pdf)
 
 ### Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/unleashed97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/unleashed0) ![Profile views](https://gpvc.arturio.dev/unleashed97)
