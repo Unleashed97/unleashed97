@@ -76,7 +76,7 @@ Landing page of Cuba "Liberty Island".
 ### Monty Hall problem
 You can check it out [here](https://unleashed97.github.io/monty/)
 * About
-Its a brain teaser. If you dont know about it check [this (wiki)](https://en.wikipedia.org/wiki/Monty_Hall_problem). I have heard about it from the "21" film (2008). Ofc I solve it wrong (xd). Then I asked my friend to solve the problem. But he never wants to believe to the right solving of this. So I decided to prove it. [Here](https://unleashed97.github.io/monty/] you can try.
+Its a brain teaser. If you dont know about it check [this (wiki)](https://en.wikipedia.org/wiki/Monty_Hall_problem). I have heard about it from the "21" film (2008). Ofc I solve it wrong (xd). Then I asked my friend to solve the problem, he failed but he didn't believed in the right answer. So I decided to prove it. [Here](https://unleashed97.github.io/monty/) you can try.
 
 * Technologies
   * HTML5
