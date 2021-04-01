@@ -9,7 +9,7 @@ I am junior frontent developer, **currently searching for a job**.
 - 📫 How to reach me: [Telegram](t.me/unleashed0)
 
 ### Resume
-[SV.pdf]( https://unleashed97.github.io/unleashed97/src/assets/cv/CV.pdf)
+[//]: # (#[SV.pdf]( https://unleashed97.github.io/unleashed97/src/assets/cv/CV.pdf))
 
 ### Socials
 
@@ -39,7 +39,7 @@ I am junior frontent developer, **currently searching for a job**.
 
 ***
 
-## Projects I'm pround of
+## Some of my projects
 ### Quiz
 You can check it out [here](https://unleashed97.github.io/react-quiz/#/)
 * About
