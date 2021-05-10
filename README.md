@@ -28,7 +28,7 @@ I am junior frontent developer, **currently searching for a job**.
 * Webpack (common knowledge)
 * Git (common knowledge)
 * Firebase
-* MongoDB (in the process of learning
+* MongoDB (in the process of learning)
 
 ### Other
 * English (B1 - ok at writing/reading, bad at speaking)'
