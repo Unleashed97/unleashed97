@@ -60,18 +60,6 @@ Just a little landing page for the restaurant to improve markdown skill
   * Swiper slider
   * GULP (minify html/css/images, etc.)
 
-### Cuba
-You can check it out [here](https://unleashed97.github.io/cuba/src/)
-* About
-Landing page of Cuba "Liberty Island". 
-* Technologies
-  * HTML5
-  * SCSS
-  * Vanilla JS
-  * AOS animation
-  * Swiper slider
-  * GULP
-
 ### Monty Hall problem
 You can check it out [here](https://unleashed97.github.io/monty/)
 * About
