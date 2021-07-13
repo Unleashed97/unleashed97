@@ -33,7 +33,6 @@ I am junior frontent developer, **currently searching for a job**.
 ### Other
 * English (B1 - ok at writing/reading, bad at speaking)'
 * Italian (Shy attempt to learn)
-* Geography (I know all the capitals of EU and almost all of Asia countries, I dont know why)
 * I like gym
 * I hate smoking
 
