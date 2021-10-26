@@ -33,7 +33,7 @@ I am front-end developer.
 ## Other
 * English (B1 - ok at writing/reading, bad at speaking)'
 * Italian (Shy attempt to learn)
-* I like gym
+* I like gym, chess
 * I hate smoking
 
 ## My projects
