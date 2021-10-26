@@ -38,13 +38,13 @@ I am front-end developer.
 
 ## My projects
 * **Layout**.  
-		Online cinema [repo](https://github.com/Unleashed97/justice-league)
-		Stack: 
-		* Pug
-		* SCSS
-		* Js 
-		* Gulp - minimize images, etc
-		* Aos - animation
+	Online cinema [repo](https://github.com/Unleashed97/justice-league)
+	Stack: 
+	* Pug
+	* SCSS
+	* Js 
+	* Gulp - minimize images, etc
+	* Aos - animation
 	 HTML Accessibility: semantic tags, alts for images, outlines 
 *  **React**. 
 	* Quiz [repo](https://unleashed97.github.io/react-quiz/#/)
@@ -63,7 +63,7 @@ I am front-end developer.
 
 ### Technologies 
 
-<img alt="HTML" src="https://img.shields.io/badge/-html(pug)-C6DEF1?style=for-the-badge&logo=pug"><img alt="css" src="https://img.shields.io/badge/-css(scss)-C6DEF1?style=for-the-badge&logo=sass"><img alt="javascript" src="https://img.shields.io/badge/-javascript-C6DEF1?style=for-the-badge&logo=javascript"><img alt="typescript" src="https://img.shields.io/badge/-typescript-C6DEF1?style=for-the-badge&logo=typescript"><img alt="react" src="https://img.shields.io/badge/-react.js-C6DEF1?style=for-the-badge&logo=react"><img alt="nodejs" src="https://img.shields.io/badge/-node.js-C6DEF1?style=for-the-badge&logo=node.js"><img alt="mongodb" src="https://img.shields.io/badge/-mongodb-C6DEF1?style=for-the-badge&logo=mongodb"><img alt="gulp" src="https://img.shields.io/badge/-gulp-C6DEF1?style=for-the-badge&logo=gulp"><img alt="git" src="https://img.shields.io/badge/-git-C6DEF1?style=for-the-badge&logo=git"><img alt="figma" src="https://img.shields.io/badge/-figma-C6DEF1?style=for-the-badge&logo=figma">
+<img alt="HTML" src="https://img.shields.io/badge/-html(pug)-C6DEF1?style=for-the-badge&logo=pug"> <img alt="css" src="https://img.shields.io/badge/-css(scss)-C6DEF1?style=for-the-badge&logo=sass"> <img alt="javascript" src="https://img.shields.io/badge/-javascript-C6DEF1?style=for-the-badge&logo=javascript"> <img alt="typescript" src="https://img.shields.io/badge/-typescript-C6DEF1?style=for-the-badge&logo=typescript"> <img alt="react" src="https://img.shields.io/badge/-react.js-C6DEF1?style=for-the-badge&logo=react"> <img alt="nodejs" src="https://img.shields.io/badge/-node.js-C6DEF1?style=for-the-badge&logo=node.js"> <img alt="mongodb" src="https://img.shields.io/badge/-mongodb-C6DEF1?style=for-the-badge&logo=mongodb"> <img alt="gulp" src="https://img.shields.io/badge/-gulp-C6DEF1?style=for-the-badge&logo=gulp"> <img alt="git" src="https://img.shields.io/badge/-git-C6DEF1?style=for-the-badge&logo=git"> <img alt="figma" src="https://img.shields.io/badge/-figma-C6DEF1?style=for-the-badge&logo=figma">
 
 ![Profile views](https://gpvc.arturio.dev/unleashed97)
 
