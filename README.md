@@ -39,6 +39,7 @@ I am front-end developer.
 ## My projects
 * **Layout**.  
 	Online cinema [repo](https://github.com/Unleashed97/justice-league)
+	
 	Stack: 
 	* Pug
 	* SCSS
@@ -49,10 +50,12 @@ I am front-end developer.
 *  **React**. 
 	* Quiz [repo](https://unleashed97.github.io/react-quiz/#/)
 		First React app. Geogrphic quizzes like capitals of Europe.
+		
 		Stack: 
 		* React JS
 		* SCSS
 	* Pizza shop [repo](https://github.com/Unleashed97/pizza-shop)
+
 		Stack:
 		* React JS
 		* Redux
