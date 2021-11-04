@@ -9,7 +9,7 @@ I am front-end developer.
 
 - 🔭 I’m currently working on [Pizza shop](https://github.com/Unleashed97/pizza-shop).
 - 🌱 I’m currently learning React & Redux, TypeScript 
-- 📫 How to reach me: [Telegram](https://t.me/unleashed0
+- 📫 How to reach me: [Telegram](https://t.me/unleashed0)
 
 
 ### Socials: 
