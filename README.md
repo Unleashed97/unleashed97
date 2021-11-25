@@ -13,7 +13,7 @@ I am front-end developer.
 
 
 ### Socials: 
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF"/>](https://twitter.com/Romanich0) [<img alt="telegram" src="https://img.shields.io/badge/telegram-37ACF1.svg?&style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>](https://t.me/unleashed0) [<img alt="codepen" src="https://img.shields.io/badge/codepen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=FFFFFF"/>](https://codepen.io/noudev) [<img alt=linkedin src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>](https://linkedin.com/)
+[<img alt="telegram" src="https://img.shields.io/badge/telegram-37ACF1.svg?&style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>](https://t.me/unleashed0) [<img alt="codepen" src="https://img.shields.io/badge/codepen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=FFFFFF"/>](https://codepen.io/noudev) [<img alt=linkedin src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>](https://linkedin.com/)
 
 
 ## Stack
