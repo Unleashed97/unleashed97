@@ -1,5 +1,3 @@
-<img src='https://github.com/Unleashed97/unleashed97/blob/main/src/assets/images/header-mod.jpg' alt='header'>
-
 <img align="right" src="https://komarev.com/ghpvc/?username=unleashed0&label=Profile%20Views%20&color=39F195&style=flat" alt="views counter" />
 
 
